@@ -1,0 +1,68 @@
+.header {
+	font-family: Cursive, Gabriola;
+}
+
+body {
+	font-family: Sans-serif, Trebuchet;
+    /*text-align: center;*/
+    /*backgrou.nd-color: silver;*/
+}
+
+/*h1 {*/
+   /*color: blue;*/
+   /*text-shadow: 10px 10px 10px red;*/
+}
+
+/*.btn {*/
+	/*border: 2px solid black;*/
+    /*outline-style: groove;*/
+    /*outline-color: lime;*/
+}
+
+/*p {*/
+	/*text-transform: uppercase;*/
+}
+
+/*.section__subtitle {*/
+	/*font-size: 20px;*/
+}
+
+/*.aside__btn {*/
+	/*background-color: teal;*/
+	/*border: 5px solid teal;*/
+	/*box-shadow: 2px 2px 7px 1px turquoise;*/
+}
+
+/*.aside__btn .aside__btn_additional {*/
+	/*background-color: teal;*/
+	/*border: 5px solid teal;*/
+	/*box-shadow: 2px 2px 7px 1px turquoise;*/
+}
+
+/*.aside__btn .aside__btn_additional .additional {*/
+	/*background-color: teal;*/
+	/*border: 5px solid teal;*/
+	/*box-shadow: 2px 2px 7px 1px turquoise;*/
+}
+
+/*.text {*/
+	/*text-transform: uppercase;*/
+	/*font-size: 10px;*/
+}
+
+/*.footer__description {*/
+  /*font-size: 10px;*/
+	/*text-transform: uppercase;*/
+}
+
+/*.footer__subtitle {*/
+	/*font-size: 15px;*/
+}
+
+/*.footer__btn {*/
+  /*font-size: 10px;*/
+}
+	
+	
+
+
